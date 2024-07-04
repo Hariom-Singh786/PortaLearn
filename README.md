@@ -48,3 +48,18 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository**:
    ```sh
    git clone https://github.com/your-username/portlearn.git
+
+
+Screenshots:
+
+![image](https://github.com/Hariom-Singh786/PortaLearn/assets/91545175/320c9925-0d90-4879-b2ca-1639c2a2eb9d)
+![image](https://github.com/Hariom-Singh786/PortaLearn/assets/91545175/27fda8b2-2d36-4c66-a2c5-0dab9b74cb9d)
+![image](https://github.com/Hariom-Singh786/PortaLearn/assets/91545175/a52300db-4340-4f46-a01d-249f820f7a1c)
+![image](https://github.com/Hariom-Singh786/PortaLearn/assets/91545175/8bad76f4-826a-4f96-8bd9-0fa60e2d11da)
+![image](https://github.com/Hariom-Singh786/PortaLearn/assets/91545175/77272a73-80ed-4f91-b5a8-a00c196a94c2)
+![image](https://github.com/Hariom-Singh786/PortaLearn/assets/91545175/8660ce7c-bdda-4e41-bc71-d4598040fa14)
+
+
+
+
+
