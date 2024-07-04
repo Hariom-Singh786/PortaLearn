@@ -1,0 +1,147 @@
+[
+    {
+        "id":1,
+        "name":"Baby Story",
+        "title":"The Night Circus by Erin Morgenstern",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://cdn.pixabay.com/photo/2017/06/07/10/47/elephant-2380009_1280.jpg"
+    },
+    {
+        "id":2,
+        "name":"Adult",
+        "title":"The Martian by Andy Weir",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://cdn.pixabay.com/photo/2017/03/27/12/25/adult-2178366_1280.jpg"
+    },
+    {
+        "id":3,
+        "name":"Knowledge",
+        "title":"Educated by Tara Westover",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://cdn.pixabay.com/photo/2020/11/10/21/00/boy-5731001_1280.jpg"
+    },
+    {
+        "id":4,
+        "name":"Love Seeker",
+        "title":"The Goldfinch by Donna Tartt",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://cdn.pixabay.com/photo/2019/11/10/11/13/couple-4615557_1280.jpg"
+    },
+    {
+        "id":5,
+        "name":"Knife Theft",
+        "title":"Little Fires Everywhere by Celeste Ng",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://cdn.pixabay.com/photo/2017/09/14/20/18/pirate-2750279_1280.jpg"
+    },
+    {
+        "id":6,
+        "name":"Love Balancer",
+        "title":"Becoming by Michelle Obama",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://cdn.pixabay.com/photo/2021/11/06/08/28/balance-6772762_1280.jpg"
+    },
+    {
+        "id":7,
+        "name":"Story Writer",
+        "title":"Normal People by Sally Rooney",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://cdn.pixabay.com/photo/2020/11/27/05/51/girl-5780922_1280.jpg"
+    },
+    {
+        "id":8,
+        "name":"Baby Lonea",
+        "title":"Where the Crawdads Sing by Delia Owens",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://cdn.pixabay.com/photo/2018/03/11/14/25/fantasy-3216914_1280.jpg"
+    },
+    {
+        "id":9,
+        "name":"Rampage Writer",
+        "title":"The Silent Patient by Alex Michaelides",
+        "price":"$0",
+        "category":"Free",
+        "image":"https://cdn.pixabay.com/photo/2023/03/03/19/50/statue-7828368_1280.jpg"
+    },
+    {
+        "id":10,
+        "name":"Baby Story New",
+        "title":"The Night Circus by Erin Morgenstern",
+        "price":"$99",
+        "category":"Paid",
+        "image":"https://cdn.pixabay.com/photo/2017/06/07/10/47/elephant-2380009_1280.jpg"
+    },
+    {
+        "id":11,
+        "name":"Adult New",
+        "title":"The Martian by Andy Weir",
+        "price":"$39",
+        "category":"Paid",
+        "image":"https://cdn.pixabay.com/photo/2017/03/27/12/25/adult-2178366_1280.jpg"
+    },
+    {
+        "id":12,
+        "name":"Knowledge New",
+        "title":"Educated by Tara Westover",
+        "price":"$120",
+        "category":"Paid",
+        "image":"https://cdn.pixabay.com/photo/2020/11/10/21/00/boy-5731001_1280.jpg"
+    },
+    {
+        "id":13,
+        "name":"Love Seeker New",
+        "title":"The Goldfinch by Donna Tartt",
+        "price":"$500",
+        "category":"Paid",
+        "image":"https://cdn.pixabay.com/photo/2019/11/10/11/13/couple-4615557_1280.jpg"
+    },
+    {
+        "id":14,
+        "name":"Knife Theft New",
+        "title":"Little Fires Everywhere by Celeste Ng",
+        "price":"$50",
+        "category":"Paid",
+        "image":"https://cdn.pixabay.com/photo/2017/09/14/20/18/pirate-2750279_1280.jpg"
+    },
+    {
+        "id":15,
+        "name":"Love Balancer New",
+        "title":"Becoming by Michelle Obama",
+        "price":"$230",
+        "category":"Paid",
+        "image":"https://cdn.pixabay.com/photo/2021/11/06/08/28/balance-6772762_1280.jpg"
+    },
+    {
+        "id":16,
+        "name":"Story Writer New",
+        "title":"Normal People by Sally Rooney",
+        "price":"$200",
+        "category":"Paid",
+        "image":"https://cdn.pixabay.com/photo/2020/11/27/05/51/girl-5780922_1280.jpg"
+    },
+    {
+        "id":17,
+        "name":"Baby Lonea New",
+        "title":"Where the Crawdads Sing by Delia Owens",
+        "price":"$500",
+        "category":"Paid",
+        "image":"https://cdn.pixabay.com/photo/2018/03/11/14/25/fantasy-3216914_1280.jpg"
+    },
+    {
+        "id":18,
+        "name":"Rampage Writer New",
+        "title":"The Silent Patient by Alex Michaelides",
+        "price":"$190",
+        "category":"Paid",
+        "image":"https://cdn.pixabay.com/photo/2023/03/03/19/50/statue-7828368_1280.jpg"
+    }
+
+]
